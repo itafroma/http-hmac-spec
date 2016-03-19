@@ -342,6 +342,16 @@ for frequently asked questions and a list of implementations in various language
 ## Implementations
 List Auth Implementations here (go, php, bash, etc..)
 
+### v2
+Some have v1 implementation as well
+* [JavaScript](https://github.com/acquia/http-hmac-javascript)
+* [Java](https://github.com/acquia/http-hmac-java)
+* [Go](https://github.com/acquia/http-hmac-go)
+* [Ruby](https://github.com/acquia/http-hmac-ruby)
+
+### v1 Only
+* [PHP](https://github.com/acquia/http-hmac-php)
+
 ## Attribution
 
 The algorithm is modeled after [Amazon Web Service's](http://docs.aws.amazon.com/AmazonS3/latest/dev/RESTAuthentication.html)
